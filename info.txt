@@ -6,3 +6,4 @@ Git, maven and jenkins
 kubernetes
 docker
 ansible
+maven
