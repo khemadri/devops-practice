@@ -2,3 +2,4 @@ git is version control system and source code mangement tool
 git is very fast
 git is easy to learn
 git is scm tool
+git is open source
