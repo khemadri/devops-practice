@@ -3,3 +3,4 @@ git is very fast
 git is easy to learn
 git is scm tool
 git is open source
+git is best
